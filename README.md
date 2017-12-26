@@ -1,4 +1,5 @@
 # healthFul
+
 # Overview
 healthFul is an interactive game that educates people on health practices and health issues in Third World countries. The game has four main modes: start, help, play, and end. The goal of the game is for the user to obtain the positive symbols and power ups to score points and avoid the negative symbols. Every time the user obtains a symbol, a randomly-generated fact about health will pop up. For the positive symbols, the facts are tips for taking care of yourself and your body. For the negative symbols, the facts are about health issues present in Third World countries. healthFul was designed to help people become more aware of the importance of health through a fun and interactive way. 
 
